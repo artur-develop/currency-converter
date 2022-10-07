@@ -1,0 +1,17 @@
+.container {
+    margin-bottom: 6px;
+}
+
+.input_amount {
+    font-weight: 600;
+    padding: 7px;
+    border: none;
+    border-radius: 7px;
+    margin-right: 10px;
+}
+
+.select_curr {
+    cursor: pointer;
+    padding: 6px;
+    border-radius: 7px;
+}

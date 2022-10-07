@@ -1,0 +1,26 @@
+.app {
+  position: relative;
+  text-align: center;
+  height: calc(100vh - 110px);
+}
+
+.app:after {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  content: "";
+}
+
+.convertor_container {
+  margin: 40px auto 0;
+  padding-bottom: 25px;
+  width: 550px;
+  border: 2px solid black;
+  border-radius: 17px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+
+  background-color: #D2DAFF;
+
+}

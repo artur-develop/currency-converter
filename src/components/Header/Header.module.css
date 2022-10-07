@@ -1,0 +1,27 @@
+.header {
+    margin-bottom: 0;
+}
+
+.container {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.rates {
+    font-size: 19px;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.rates:last-child {
+    margin-right: 0;
+}
+
+.exchange_number {
+    font-weight: 600;
+}
+
+.curr_image {
+    width: 80px;
+    height: 45px;
+}
